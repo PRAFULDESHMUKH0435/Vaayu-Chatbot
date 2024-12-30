@@ -1,0 +1,1 @@
+enum MessageSender{Bot,User}
